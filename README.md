@@ -2,9 +2,9 @@
 
 ## Software Engineer | Backend Developer | Flutter Developer | Telecom R&D Engineer
 
-I am a software engineer with strong experience in backend development, mobile applications, cloud infrastructure, telecom systems, embedded networking platforms, and CPE device management.
+I am a software engineer with strong experience in backend development, mobile applications, cloud infrastructure, telecom systems, embedded networking platforms, CPE device management, QA validation, and automation scripting.
 
-I focus on building scalable, secure, and production-ready software solutions using Laravel, Flutter, Vue.js, Docker, Linux, AWS, APIs, OpenWrt, RTOS, and telecom protocols such as TR-069 CWMP and TR-369 USP.
+I focus on building scalable, secure, and production-ready software solutions using Laravel, Flutter, Vue.js, Docker, Linux, AWS, APIs, OpenWrt, RTOS, automation scripts, and telecom protocols such as TR-069 CWMP and TR-369 USP.
 
 ---
 
@@ -14,6 +14,8 @@ I focus on building scalable, secure, and production-ready software solutions us
 - 📱 Flutter Developer building mobile applications for Android and iOS
 - 🛰️ Telecom R&D Engineer working with CPE devices, ACS platforms, TR-069, TR-369, diagnostics, provisioning, and remote device management
 - 📡 Experienced with OpenWrt, RTOS, MTK SDK, Qualcomm SDK, ASR SDK, and embedded networking platforms
+- 🧪 QA-minded engineer with experience in manual testing, regression testing, issue reproduction, and release validation
+- 🤖 Experienced in automation testing using Bash scripts, Linux tools, logs, CLI workflows, and API-based test scenarios
 - 🔧 Working on router firmware validation, LTE/5G device behavior, SDK compilation, and vendor issue analysis
 - ☁️ Familiar with AWS services, Linux servers, Docker, deployment, automation, and cloud infrastructure
 - 📊 Interested in SaaS platforms, dashboards, digital signage systems, real-time monitoring, and network device management
@@ -39,7 +41,7 @@ I focus on building scalable, secure, and production-ready software solutions us
 ### Backend Development
 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP_Backend-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![PHP Backend](https://img.shields.io/badge/PHP_Backend-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
 ![API Integration](https://img.shields.io/badge/API_Integration-000000?style=for-the-badge&logo=postman&logoColor=white)
@@ -66,6 +68,49 @@ I focus on building scalable, secure, and production-ready software solutions us
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Dashboard UI](https://img.shields.io/badge/Dashboard_UI-111827?style=for-the-badge)
+
+---
+
+### QA, Testing & Automation
+
+![Manual Testing](https://img.shields.io/badge/Manual_Testing-2563EB?style=for-the-badge)
+![Regression Testing](https://img.shields.io/badge/Regression_Testing-7C3AED?style=for-the-badge)
+![Automation Testing](https://img.shields.io/badge/Automation_Testing-059669?style=for-the-badge)
+![Bash Scripting](https://img.shields.io/badge/Bash_Scripting-121011?style=for-the-badge&logo=gnubash&logoColor=white)
+![API Testing](https://img.shields.io/badge/API_Testing-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Log Analysis](https://img.shields.io/badge/Log_Analysis-374151?style=for-the-badge)
+![Test Cases](https://img.shields.io/badge/Test_Cases-1D4ED8?style=for-the-badge)
+![Bug Reporting](https://img.shields.io/badge/Bug_Reporting-DC2626?style=for-the-badge)
+![Release Validation](https://img.shields.io/badge/Release_Validation-0F766E?style=for-the-badge)
+
+I apply QA practices across backend systems, mobile applications, firmware builds, APIs, and network devices to ensure stable, reliable, and production-ready releases.
+
+**Testing Experience:**
+
+- Manual testing for web dashboards, mobile applications, APIs, and CPE device behavior
+- Regression testing after feature changes, SDK updates, firmware patches, and backend releases
+- Automation testing using Bash scripts, Linux commands, curl, cron jobs, logs, and CLI workflows
+- API validation using Postman, curl, request/response inspection, and backend logs
+- Firmware validation for router platforms, LTE/5G CPE devices, and operator-specific requirements
+- Issue reproduction, test scenario documentation, bug reporting, and root-cause analysis
+- Release validation before customer delivery, vendor handover, and production deployment
+- Monitoring logs from Docker, Linux services, mobile builds, network tools, and embedded systems
+
+**Automation & Scripting Areas:**
+
+```text
+Bash scripting
+Linux CLI automation
+curl-based API testing
+Log collection scripts
+Docker log monitoring
+Cron-based test jobs
+Firmware test helpers
+Network diagnostics scripts
+Health-check scripts
+Deployment validation scripts
+Regression test scripts
+```
 
 ---
 
@@ -116,7 +161,7 @@ I focus on building scalable, secure, and production-ready software solutions us
 
 ## 📡 Embedded, CPE & SDK Development
 
-I work with embedded networking devices and CPE platforms, focusing on firmware integration, SDK-based development, remote management, diagnostics, and production-level validation.
+I work with embedded networking devices and CPE platforms, focusing on firmware integration, SDK-based development, remote management, diagnostics, QA validation, and production-level testing.
 
 My work includes building, testing, validating, and troubleshooting router platforms based on OpenWrt, RTOS, MTK SDK, Qualcomm SDK, and ASR SDK environments.
 
@@ -134,7 +179,7 @@ My work includes building, testing, validating, and troubleshooting router platf
 - Firmware testing, SDK compilation, system logs analysis, and issue reproduction
 - LTE/5G CPE behavior validation across different operator requirements
 - VoIP, SIP, IMS, and Asterisk integration testing
-- Vendor issue analysis, technical reporting, and production-readiness validation
+- Vendor issue analysis, technical reporting, QA validation, and production-readiness verification
 
 ### Relevant Technical Domains
 
@@ -159,3 +204,155 @@ Network Diagnostics
 Firmware Validation
 SDK Compilation
 Vendor Issue Analysis
+Manual Testing
+Automation Testing
+Bash Scripting
+Regression Testing
+Release Validation
+```
+
+---
+
+## 📌 Featured Projects
+
+### Digital Signage Management Platform
+
+A multi-tenant SaaS platform for managing digital signage screens remotely for restaurants, cafes, retail stores, and enterprise customers.
+
+### Key Features
+
+- Multi-tenant architecture
+- Owner, reseller, and customer dashboards
+- Remote screen registration and management
+- Playlist and media scheduling
+- License request, approval, payment, and renewal workflow
+- Real-time screen status monitoring
+- Media upload and content distribution
+- Flutter-based Android TV player
+- Dockerized backend environment
+- QA test scenarios for screen registration, license flow, content updates, and player connectivity
+
+**Tech Stack:** Laravel, Vue.js, Inertia.js, Tailwind CSS, Flutter, Docker, MySQL
+
+---
+
+### AVX Connect Mobile Application
+
+A Flutter-based mobile application designed to manage and control network devices through a clean and user-friendly mobile interface.
+
+### Key Features
+
+- Device management
+- Router configuration
+- Parental control
+- QoS management
+- Software update check
+- API-based communication with backend systems
+- Android and iOS support
+- Customer-facing mobile experience
+- Manual testing and release validation across supported devices
+- API testing and issue reproduction for backend/mobile communication
+
+**Tech Stack:** Flutter, Dart, REST APIs, Firebase, Android, iOS
+
+---
+
+### ACS Device Management Platform
+
+A centralized platform for managing network devices using TR-069 CWMP and TR-369 USP protocols.
+
+### Key Features
+
+- Remote CPE management
+- Device provisioning
+- Real-time monitoring
+- Device diagnostics
+- Parameter reading and configuration
+- Firmware and configuration workflows
+- Multi-role access for technical, support, and operations teams
+- MQTT/TLS/MTLS communication for TR-369 USP
+- Scalable device data storage and reporting
+- QA validation for device communication, diagnostics, provisioning, and firmware workflows
+
+**Tech Stack:** Laravel, Node.js, MongoDB, Docker, TR-069 CWMP, TR-369 USP, MQTT
+
+---
+
+### Workflow Ticketing System
+
+A web-based workflow and ticketing system for managing internal operations, support requests, and task tracking.
+
+### Key Features
+
+- Ticket management
+- Workflow tracking
+- User roles and permissions
+- Dashboard-based task monitoring
+- Internal support process organization
+- Testing scenarios for roles, ticket lifecycle, notifications, and workflow states
+
+**Tech Stack:** TypeScript, Backend APIs, Dashboard UI, Database Management
+
+---
+
+## 📊 GitHub Stats
+
+![Ahmad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmadAtary&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadAtary&layout=compact&theme=tokyonight)
+
+---
+
+## 🎯 Current Focus
+
+- Building scalable SaaS platforms for device management and digital signage
+- Improving Laravel, Flutter, and Vue.js production architecture
+- Working with OpenWrt, RTOS, MTK SDK, Qualcomm SDK, and ASR SDK-based router platforms
+- Developing and validating CPE firmware features for LTE and 5G devices
+- Integrating TR-069 CWMP and TR-369 USP for remote device management
+- Building secure MQTT/TLS/MTLS communication between devices and controllers
+- Improving AWS, DevOps, CI/CD, Docker, Linux deployment, and cloud infrastructure skills
+- Applying QA processes, manual testing, automation testing, and release validation for production systems
+- Building Bash scripts for test automation, log analysis, API validation, deployment checks, and system health monitoring
+- Designing modern dashboards with strong UI/UX, real-time analytics, and monitoring
+
+---
+
+## 🧩 What Makes Me Valuable
+
+I combine software engineering, backend development, mobile development, telecom systems, embedded platforms, QA validation, automation scripting, and DevOps knowledge in one profile.
+
+This allows me to contribute across the full product lifecycle:
+
+```text
+Requirement Analysis
+System Design
+Backend Development
+Mobile Development
+API Integration
+Firmware / CPE Validation
+Manual Testing
+Automation Testing
+Debugging
+Deployment
+Monitoring
+Customer Delivery
+Production Support
+```
+
+I am not only focused on writing code. I focus on building reliable products, validating them properly, debugging real issues, improving system quality, and delivering solutions that can run in real production environments.
+
+This combination makes me a highly valuable software engineer for companies working on SaaS platforms, telecom systems, embedded devices, mobile applications, cloud infrastructure, and production-grade software products.
+
+---
+
+## 📫 Contact Me
+
+- Email: [a.afsha2912@gmail.com](mailto:a.afsha2912@gmail.com)
+- Phone: [+962789972718](tel:+962789972718)
+- LinkedIn: Add your LinkedIn link here
+- Portfolio: Add your portfolio link here
+
+---
+
+### Software Engineer focused on building reliable, scalable, and production-ready systems.
