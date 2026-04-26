@@ -350,8 +350,6 @@ This combination makes me a highly valuable software engineer for companies work
 
 - Email: [a.afsha2912@gmail.com](mailto:a.afsha2912@gmail.com)
 - Phone: [+962789972718](tel:+962789972718)
-- LinkedIn: Add your LinkedIn link here
-- Portfolio: Add your portfolio link here
 
 ---
 
